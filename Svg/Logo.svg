@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="Logo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 110.74702 31.789272"
+   height="31.789272mm"
+   width="110.74702mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="0"
+     inkscape:window-y="49"
+     inkscape:window-x="148"
+     inkscape:window-height="1030"
+     inkscape:window-width="1778"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="79.704118"
+     inkscape:cx="212.1252"
+     inkscape:zoom="1.979899"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-45.735119,-52.310432)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Calque 1">
+    <rect
+       y="52.310432"
+       x="45.735119"
+       height="31.789272"
+       width="94.872017"
+       id="rect842"
+       style="fill:#721c35;fill-opacity:1;stroke-width:1.98943;stroke-linecap:round" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       d="m 61.799107,52.349705 h 94.683033 l -15.875,31.75 H 45.924107 Z"
+       style="fill:#560019;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+       id="rect835" />
+    <text
+       id="text840"
+       y="71.915039"
+       x="66.762115"
+       style="font-style:normal;font-weight:normal;font-size:13.0707px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.326768"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Riffic Free';-inkscape-font-specification:'Riffic Free';fill:#ffffff;fill-opacity:1;stroke-width:0.326768"
+         y="71.915039"
+         x="66.762115"
+         id="tspan838"
+         sodipodi:role="line">ChérieLand</tspan></text>
+    <path
+       d="m 111.56518,56.869075 c -0.56194,-0.561942 -1.46673,-0.561943 -2.02868,10e-7 l -0.38038,0.380377 -0.28983,-0.289841 c -0.56195,-0.561944 -1.46674,-0.561944 -2.02868,0 -0.56196,0.561944 -0.56196,1.466738 0,2.028682 l 0.28983,0.28984 2.02868,2.02868 2.02869,-2.02868 0.38037,-0.38038 c 0.56194,-0.561943 0.56196,-1.466732 0,-2.028679 z"
+       style="fill:#f57198;fill-opacity:1;stroke-width:0.542168;stroke-linecap:round"
+       id="rect844" />
+    <path
+       id="rect844-8"
+       style="fill:#f57198;fill-opacity:1;stroke-width:0.72426;stroke-linecap:round"
+       d="m 143.86035,70.025723 c 10e-6,-1.061608 -0.85465,-1.916274 -1.91628,-1.916278 h -0.7186 l 1e-5,-0.547553 c -1e-5,-1.061625 -0.85467,-1.916284 -1.91628,-1.91628 -1.06162,-9e-6 -1.91629,0.854653 -1.91627,1.916279 l -1e-5,0.547557 V 71.942 l 3.83255,2e-6 0.71861,-2e-6 c 1.06161,-2e-6 1.91628,-0.854646 1.91627,-1.916277 z" />
+    <path
+       d="m 64.070457,65.028788 c -1.061608,-1e-5 -1.916274,0.85465 -1.916278,1.91628 v 0.718599 l -0.547553,-9e-6 c -1.061625,9e-6 -1.916284,0.85467 -1.91628,1.91628 -9e-6,1.06162 0.854653,1.91629 1.916279,1.91627 l 0.547557,1e-5 h 3.832552 l 2e-6,-3.832551 -2e-6,-0.718609 c -2e-6,-1.06161 -0.854646,-1.91628 -1.916277,-1.91627 z"
+       style="fill:#f57198;fill-opacity:1;stroke-width:0.72426;stroke-linecap:round"
+       id="rect844-8-6" />
+  </g>
+</svg>

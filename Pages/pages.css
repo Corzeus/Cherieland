@@ -1,0 +1,26 @@
+body{
+    background: #D63867 url("../Svg/pattern.svg") repeat;
+    margin: 0;
+}
+svg{
+    width:100%;
+    padding:0;
+    margin:0;
+}
+#ImageSvg{
+    padding:0;
+    margin:0;
+    align-self:center;
+    width:50%;
+}
+#ImageSvgSpace{
+    display: flex;
+    flex-direction: column;
+}
+.Button{
+    stroke: transparent;
+    transition: stroke 0.25s ease-out;
+}
+.Button:hover{
+    stroke: #751733;
+}

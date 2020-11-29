@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    background:  #D63867 url("Svg/Cadeau.svg") repeat ;
+}
+
+@font-face{
+    font-family: "Riffic";
+    font-style: normal;
+    src : url("RifficFree-Bold.ttf") format("truetype");
+}
+
+.ForBackground{
+    display: flex;
+    width: 100%;
+    flex-direction:  column;
+    justify-content: center;
+}
+
+.CenterPage{
+    margin-top: 7%;
+    padding: 20px;
+    align-self: center;
+    width: 30%;
+    background: radial-gradient(circle at center, #D63867 0 ,#D63867 40% , transparent 70%);
+}
+
+h1{
+    align-self: center;
+    font-family: "Riffic";
+    color: white;
+    border-bottom: 5px solid white;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    font-size: 3em;
+}
+
+#toalign{
+    align-self: center;
+}
+
+.CodeInput{
+    display: flex;
+    flex-direction:  column;
+    justify-content: center;
+}
+p{
+    align-self: center;
+    color: white;
+    width: 70%;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#inputitem{
+    width : 75%;
+    border: 1px white;
+    padding : 20px;
+    border-radius: 30px;
+    font-size: 2em;
+    color: #721c35;
+    font-family: "Riffic";
+    align-self: center;
+    text-transform: uppercase;
+}
+.buttonsubmit{
+    width : 50%;
+    border: 0px;
+    color :white;
+    border-radius: 10px;
+    background: #721c35;
+    align-self: center;
+    padding: 10px;
+    margin-top: 20px;
+    font-family: "Riffic";
+    font-size: 1.5em;
+}
