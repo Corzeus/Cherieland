@@ -57,6 +57,6 @@ g = GenPlan({"CopainVille":"CopainVille.html",
             "Barman": "Barman.html",
             "VendeurChinois": "VendeurChinois.html",
             "Cartographe": "Cartographe.html",
-            "Animalistes": "Animalistes.html"
+            "Animalistes": "Animalistes.html",
             })
-g.new_plan("Svg/Barman.svg", "Barman")
+g.new_plan("Svg/cartemaison.svg", "CarteMaison")

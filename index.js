@@ -14,9 +14,11 @@ function analysecode(){
 function load_data(){
     var data = {
         "CHERIELAND": "CarteNicolas.html",
-        "COPAINVILLE": "",
+        "COPAINVILLE": "CarteMaison.html",
         "SOLAL": "Solal.html",
-        "CASTELLE": "CamilleEstelle.html"
+        "CASTELLE": "CamilleEstelle.html",
+        "CLEVASECASSE":"",
+        "CLE":"",//41
     }
     return data;
 }
