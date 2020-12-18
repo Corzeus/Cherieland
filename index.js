@@ -18,7 +18,8 @@ function load_data(){
         "SOLAL": "Solal.html",
         "CASTELLE": "CamilleEstelle.html",
         "CLEVASECASSE":"",
-        "CLE":"",//41
+        "CLE":"Clement.html",
+        "CLEVASECASSE":"Clement.html"//41
     }
     return data;
 }
