@@ -19,7 +19,10 @@ function load_data(){
         "CASTELLE": "CamilleEstelle.html",
         "CLEVASECASSE":"",
         "CLE":"Clement.html",
-        "CLEVASECASSE":"Clement.html"//41
+        "CLEVASECASSE":"Clement.html",//41
+        "AMULETTE":"Amulette.html",
+        "GARCON":"Garcon.html",
+        "GALETTE":"Potage.html"
     }
     return data;
 }
